@@ -1,0 +1,3 @@
+!#/bin/bash
+print "hello,World"
+ls > 0-hello_world
